@@ -1,0 +1,23 @@
+# Python environments
+.venv/
+.venv313/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Temporary files
+*.log
+.DS_Store
+
+# User data
+uploads/
+temp/
